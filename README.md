@@ -1,7 +1,7 @@
 # Using GetX in Flutter
 
 - *First:* add the dependencies
-get: ^4.6.5
+<br>get: ^4.6.5
 
 - *Second:* create the controller
 
