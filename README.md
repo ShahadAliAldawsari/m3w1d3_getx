@@ -1,10 +1,10 @@
 # Using GetX in Flutter
 
-## First we need to add the dependencies
+- First we need to add the dependencies
 get: ^4.6.5
 
-## Second Create The Controller
+- Second Create The Controller
 
-## Then Create The Widget
+- Then Create The Widget
 
-## Finally Call The Widget in The main
+- Finally Call The Widget in The main
