@@ -1,16 +1,10 @@
-# m3w1d3_getx
+# Using GetX in Flutter
 
-A new Flutter project.
+## First we need to add the dependencies
+get: ^4.6.5
 
-## Getting Started
+## Second Create The Controller
 
-This project is a starting point for a Flutter application.
+## Then Create The Widget
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Finally Call The Widget in The main
